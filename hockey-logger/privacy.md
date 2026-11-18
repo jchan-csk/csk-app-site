@@ -4,7 +4,7 @@ title: Hockey Logger privacy policy
 
 # Hockey Logger privacy policy
 
-Effective November 13, 2026 · Published by CSK International Inc.
+Effective November 18, 2026 · Published by CSK International Inc.
 
 Hockey Logger is an iPhone app for a parent to log their own child's hockey games from the stands. This policy explains what the app records and where it goes.
 
@@ -19,13 +19,23 @@ Hockey Logger is an iPhone app for a parent to log their own child's hockey game
 
 | What | Why | Where |
 | --- | --- | --- |
-| Player and team details: name, jersey numbers, teams, roles, rosters (teammates' numbers and last names) | To set up games and show stats | On your phone; in your iCloud if sync is on |
+| Player and team details: name, jersey numbers, teams, roles, rosters (teammates' numbers and names) | To set up games and show stats | On your phone; in your iCloud if sync is on |
 | Game logs: shifts, faceoffs, events, times, scores, notes | The purpose of the app | On your phone; in your iCloud if sync is on |
 | Game audio and voice notes | To keep a timeline of the game and turn your notes into text | On your phone only |
 | Voice-note text | So notes can be read and exported | On your phone; in your iCloud if sync is on |
 | Game video you import (for example from LiveBarn) | To review and log the game from video | On your phone only, excluded from device backups |
 | Warmup photos | To help find your player on video | On your phone only |
 | App settings | To remember your preferences | On your phone |
+
+## When the app goes online
+
+The app works offline. It uses the internet only for these features, and only when you use them:
+
+- **Home rink search:** what you type is sent to Apple Maps to suggest rinks and addresses, as in Apple's Maps app. Apple's handling is covered by [Apple's privacy policy](https://www.apple.com/legal/privacy/).
+- **Roster from a web page:** the page you open is loaded directly from that website, as in a web browser, so that site sees an ordinary visit. No cookies or browsing history are kept between imports. Only the players you choose are saved, on your phone.
+- **iCloud sync,** if you turn it on (see below).
+
+Pasted text, photos and PDFs are read on the phone.
 
 ## Permissions the app asks for
 
