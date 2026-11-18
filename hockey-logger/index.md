@@ -1,10 +1,7 @@
 ---
-title: Hockey Logger
+title: BarnNotes
 ---
+<meta http-equiv="refresh" content="0; url=/csk-app-site/barnnotes/">
+<link rel="canonical" href="https://jchan-csk.github.io/csk-app-site/barnnotes/">
 
-# Hockey Logger
-
-An iPhone app for a parent to log their own player's hockey game from the stands, then review it against the game video.
-
-- [Privacy policy](privacy.md)
-- Support: [sales@chansungkee.com](mailto:sales@chansungkee.com)
+Hockey Logger is now **BarnNotes**. If you aren't taken there automatically, [open the BarnNotes support page](https://jchan-csk.github.io/csk-app-site/barnnotes/).

@@ -8,6 +8,6 @@ Support and privacy pages for iPhone apps published by CSK International Inc., I
 
 | App | Support | Privacy |
 | --- | --- | --- |
-| Hockey Logger | [Support](hockey-logger/) | [Privacy policy](hockey-logger/privacy) |
+| BarnNotes | [Support](barnnotes/) | [Privacy policy](barnnotes/privacy) |
 
 Contact: [sales@chansungkee.com](mailto:sales@chansungkee.com)
