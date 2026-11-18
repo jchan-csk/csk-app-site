@@ -56,4 +56,4 @@ If this policy changes, the new version will be posted here with a new effective
 
 ## Contact
 
-CSK International Inc. · Foothill Ranch, California · [jchan@chansungkee.com](mailto:jchan@chansungkee.com)
+CSK International Inc. · Irvine, California · [sales@chansungkee.com](mailto:sales@chansungkee.com)

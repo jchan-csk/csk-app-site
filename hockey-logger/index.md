@@ -7,4 +7,4 @@ title: Hockey Logger
 An iPhone app for a parent to log their own player's hockey game from the stands, then review it against the game video.
 
 - [Privacy policy](privacy.md)
-- Support: [jchan@chansungkee.com](mailto:jchan@chansungkee.com)
+- Support: [sales@chansungkee.com](mailto:sales@chansungkee.com)
